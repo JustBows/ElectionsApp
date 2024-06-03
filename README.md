@@ -1,2 +1,3 @@
-# ElectionsApp
-An application that helps manage Polish  parliamentary elections, made in Oracle Apex
+** ElectionsApp
+
+An application that could help in managing parliamentary elections in Poland, created in Oracle Apex
